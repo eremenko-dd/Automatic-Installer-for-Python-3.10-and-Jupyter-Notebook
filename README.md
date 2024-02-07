@@ -5,3 +5,5 @@ This file creates a hierarchy of folders on your PC, installs Miniconda3, Python
 Just run the .bat file, and then the program will do everything itself.
 
 While the console is open, the installation is in progress. When the work is completed, the console will close, and a shortcut to launch Jupyter will appear on the desktop.
+
+The operating principle is based on the article: https://habr.com/ru/articles/438934/
